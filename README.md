@@ -1,4 +1,14 @@
 ### Hi there 👋🏼 👨🏻‍💻 
+
+You can find me 🌎:
+<br>
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jhossymarbalderrama)
+[![Linkenin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balderrama-rocha-jhossymar/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blackjhossy/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JhossymarB)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jhossymar.balderrama)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](BlackJhossy#9100)
+
 ![web-blue-banner-software-ui-development-different-devices-laptop-smartphone-coding-app-business-dashboard-analytics-245636263](https://github.com/Jhossymarbalderrama/Jhossymarbalderrama/assets/52534649/9afad39a-d464-4186-bc14-f0fb37b086e5)
 
 ```javascript
@@ -9,12 +19,7 @@ const blackjhossy = {
   passions: ['Web development', 'System development']
 }
 ```
-You can find me 🌎:
-- [Linkenin](https://www.linkedin.com/in/balderrama-rocha-jhossymar/)
-- [Instagram](https://www.instagram.com/blackjhossy/)
-- [Twitter](https://twitter.com/JhossymarB)
-- [Facebook](https://www.facebook.com/jhossymar.balderrama)
-- Discord : BlackJhossy#9100
+
 
 
 ![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=jhossymarbalderrama&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
