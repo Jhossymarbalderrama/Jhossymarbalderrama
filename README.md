@@ -4,17 +4,21 @@
 ```javascript
 const blackjhossy = {
   pronouns: "He" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Java, PHP],
-  tools: [Angular, Node, Boostrap, FontAwesome]
+  cod: [HTML, CSS, Javascript , C, C#, Typescript, PHP, Ruby, Java],
+  tools: [Angular, Sprint Boot, Node, Boostrap, FontAwesome],
+  passions: ['Web development', 'System development']
 }
 ```
-
-<br />
+You can find me 🌎:
+- [Linkenin](https://www.linkedin.com/in/balderrama-rocha-jhossymar/)
+- [Instagram](https://www.instagram.com/blackjhossy/)
+- [Twitter](https://twitter.com/JhossymarB)
+- [Facebook](https://www.facebook.com/jhossymar.balderrama)
+- Discord : BlackJhossy#9100
 
 
 ![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=jhossymarbalderrama&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<br />
 
 <!--
 **Jhossymarbalderrama/Jhossymarbalderrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
