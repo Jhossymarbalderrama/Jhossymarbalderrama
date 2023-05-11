@@ -11,6 +11,8 @@ You can find me 🌎:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jhossymar.balderrama)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](BlackJhossy#9100)
 
+📧 Email : jhossymarbalderrama@gmail.com
+
 ![web-blue-banner-software-ui-development-different-devices-laptop-smartphone-coding-app-business-dashboard-analytics-245636263](https://github.com/Jhossymarbalderrama/Jhossymarbalderrama/assets/52534649/9afad39a-d464-4186-bc14-f0fb37b086e5)
 
 ```javascript
