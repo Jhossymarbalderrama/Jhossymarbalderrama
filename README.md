@@ -19,7 +19,7 @@ You can find me 🌎:
 const blackjhossy = {
   pronouns: "He" | "him",
   cod: [HTML, CSS, Javascript , C, C#, Typescript, PHP, Ruby, Java],
-  tools: [Angular, Sprint Boot, Node, Boostrap, FontAwesome],
+  tools: [Angular, Sprint Boot, Node js, Boostrap, FontAwesome, Angular Material, Ionic, XAMP, Mysql Workbench, Mongo DB, Postman, Arduino, Genexus, Joomla, Firebase],
   passions: ['Web development', 'System development']
 }
 ```
