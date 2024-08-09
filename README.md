@@ -74,8 +74,8 @@
   
   <div align="center">
     <a href="https://github.com/jhossymarbalderrama">
-    <img height="240em" src="https://github-readme-stats.vercel.app/api?username=jhossymarbalderrama&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&border_color=5c5c5c"/>
-    <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhossymarbalderrama&layout=compact&langs_count=7&theme=gruvbox&border_color=5c5c5c"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhossymarbalderrama&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&border_color=5c5c5c"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhossymarbalderrama&layout=compact&langs_count=7&theme=gruvbox&border_color=5c5c5c"/>
   </div>
 
   <h3> 🆕 Export MyObject ⭕</h3>
