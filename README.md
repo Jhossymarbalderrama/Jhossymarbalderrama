@@ -52,8 +52,6 @@
     <img src="https://img.icons8.com/fluency/70/javascript.png" alt="javascript"/>
     <img src="https://img.icons8.com/fluency/70/html-5.png" alt="html-5"/>
     <img src="https://img.icons8.com/fluency/70/css3.png" alt="css3"/>
-    <img src="https://img.icons8.com/color/70/firebase.png" alt="firebase"/>
-    <img width="60" height="60" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" alt="external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo"/>
     <img width="60" height="60" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/external-ionic-a-complete-open-source-sdk-for-hybrid-mobile-app-development-logo-shadow-tal-revivo.png" alt="external-ionic-a-complete-open-source-sdk-for-hybrid-mobile-app-development-logo-shadow-tal-revivo"/>
     <img width="70" height="60" src="https://img.icons8.com/officexs/74/php-logo.png" alt="php-logo"/>
     <img width="60" height="60" src="https://www.genexus.com/media/images/fav_icon_gx2014.png?timestamp=20171211190455" alt="genexus-logo"/>
@@ -62,6 +60,8 @@
   </p>
   
   <p align='center'>
+    <img src="https://img.icons8.com/color/70/firebase.png" alt="firebase"/>
+    <img width="60" height="60" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" alt="external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo"/>
     <img src="https://img.icons8.com/color/64/git.png" alt="git"/>
     <img src="https://img.icons8.com/fluency/64/github.png" alt="github"/>
     <img src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/>
