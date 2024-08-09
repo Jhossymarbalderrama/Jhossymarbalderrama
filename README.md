@@ -1,7 +1,6 @@
-<h1 align="center">👋 Hola , soy Jhossy Balderrama 🦝</h1>
-
-
 ![👨🏻‍💻 ](https://komarev.com/ghpvc/?username=Jhossymarbalderramae&label=PROFILE+VIEWS)
+
+<h1 align="center">👋 Hola , soy Jhossy Balderrama 🦝</h1>
 
 📩 Email : jhossymarbalderrama@gmail.com
 
@@ -26,6 +25,7 @@
   [![Portafolio Web](https://img.shields.io/badge/Portafolio%20Web-1DA1F2?style=for-the-badge&logo=planet&logoColor=white)](https://jhossymarbalderrama-portafolio.web.app/)
 
 
+**`💻 Full-Stack Developer`**
 
 ![web-blue-banner-software-ui-development-different-devices-laptop-smartphone-coding-app-business-dashboard-analytics-245636263](https://github.com/Jhossymarbalderrama/Jhossymarbalderrama/assets/52534649/9afad39a-d464-4186-bc14-f0fb37b086e5)
 
