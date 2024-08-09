@@ -29,7 +29,7 @@
 
 ![web-blue-banner-software-ui-development-different-devices-laptop-smartphone-coding-app-business-dashboard-analytics-245636263](https://github.com/Jhossymarbalderrama/Jhossymarbalderrama/assets/52534649/9afad39a-d464-4186-bc14-f0fb37b086e5)
 
-<h1 align='center'> 💻 Tecnologías en mi Stack 🚀</h1>
+<h1 align='left'> 💻 Tecnologías en mi Stack 🚀</h1>
 <p align='center'>
   <img src="https://img.icons8.com/fluency/75/000000/angularjs.png" alt="angularjs"/>
   <img  src="https://img.icons8.com/fluency/78/000000/typescript--v2.png" alt="typescript--v2"/>
