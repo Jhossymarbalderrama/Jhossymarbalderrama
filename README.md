@@ -31,42 +31,42 @@
 
 <h1 align='center'> 💻 Tecnologías en mi Stack 🚀</h1>
 <p align='center'>
-  <img src="https://img.icons8.com/fluency/80/000000/angularjs.png" alt="angularjs"/>
-  <img  src="https://img.icons8.com/fluency/84/000000/typescript--v2.png" alt="typescript--v2"/>
-  <img src="https://img.icons8.com/fluency/84/tailwind_css.png" alt="tailwind_css"/>
-  <img src="https://img.icons8.com/fluency/84/bootstrap.png" alt="bootstrap"/>
-  <img src="https://img.icons8.com/fluency/84/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-  <img src="https://img.icons8.com/color/84/spring-logo.png" alt="spring-logo"/>
-  <img src="https://img.icons8.com/fluency/84/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-  <img src="https://img.icons8.com/fluency/84/docker.png" alt="docker"/>
-  <img src="https://img.icons8.com/color/84/apache-netbeans.png" alt="apache-netbeans"/>  
-  <img src="https://img.icons8.com/color/84/mysql-logo.png" alt="mysql-logo"/>
+  <img src="https://img.icons8.com/fluency/75/000000/angularjs.png" alt="angularjs"/>
+  <img  src="https://img.icons8.com/fluency/78/000000/typescript--v2.png" alt="typescript--v2"/>
+  <img src="https://img.icons8.com/fluency/78/tailwind_css.png" alt="tailwind_css"/>
+  <img src="https://img.icons8.com/fluency/78/bootstrap.png" alt="bootstrap"/>
+  <img src="https://img.icons8.com/fluency/78/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+  <img src="https://img.icons8.com/color/78/spring-logo.png" alt="spring-logo"/>
+  <img src="https://img.icons8.com/fluency/78/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+  <img src="https://img.icons8.com/fluency/78/docker.png" alt="docker"/>
+  <img src="https://img.icons8.com/color/78/apache-netbeans.png" alt="apache-netbeans"/>  
+  <img src="https://img.icons8.com/color/78/mysql-logo.png" alt="mysql-logo"/>
 </p>
 
 <h2 align='left'>🚀 Otras Tecnologías y Herramientas que utilizo 🛠️</h2>
   <h3 align='left'>📌 Tecnologias </h3>
   <p>
-    <img src="https://img.icons8.com/fluency/64/node-js.png" alt="node-js"/>
-    <img src="https://img.icons8.com/fluency/64/c-sharp-logo.png" alt="c-sharp-logo"/>
-    <img src="https://img.icons8.com/fluency/64/javascript.png" alt="javascript"/>
-    <img src="https://img.icons8.com/fluency/64/html-5.png" alt="html-5"/>
-    <img src="https://img.icons8.com/fluency/64/css3.png" alt="css3"/>
-    <img src="https://img.icons8.com/color/64/firebase.png" alt="firebase"/>
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/64/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" alt="external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo"/>
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/64/external-ionic-a-complete-open-source-sdk-for-hybrid-mobile-app-development-logo-shadow-tal-revivo.png" alt="external-ionic-a-complete-open-source-sdk-for-hybrid-mobile-app-development-logo-shadow-tal-revivo"/>
-    <img src="https://img.icons8.com/officexs/68/php-logo.png" alt="php-logo"/>
-    <img width="60" height="60" src="https://www.genexus.com/media/images/fav_icon_gx2014.png?timestamp=20171211190455" alt="genexus-logo"/>
-    <img src="https://img.icons8.com/color/64/joomla.png" alt="joomla"/>
-    <img src="https://img.icons8.com/fluency/64/arduino.png" alt="arduino"/>
+    <img src="https://img.icons8.com/fluency/70/node-js.png" alt="node-js"/>
+    <img src="https://img.icons8.com/fluency/70/c-sharp-logo.png" alt="c-sharp-logo"/>
+    <img src="https://img.icons8.com/fluency/70/javascript.png" alt="javascript"/>
+    <img src="https://img.icons8.com/fluency/70/html-5.png" alt="html-5"/>
+    <img src="https://img.icons8.com/fluency/70/css3.png" alt="css3"/>
+    <img src="https://img.icons8.com/color/70/firebase.png" alt="firebase"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/70/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" alt="external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/70/external-ionic-a-complete-open-source-sdk-for-hybrid-mobile-app-development-logo-shadow-tal-revivo.png" alt="external-ionic-a-complete-open-source-sdk-for-hybrid-mobile-app-development-logo-shadow-tal-revivo"/>
+    <img src="https://img.icons8.com/officexs/72/php-logo.png" alt="php-logo"/>
+    <img width="68" height="68" src="https://www.genexus.com/media/images/fav_icon_gx2014.png?timestamp=20171211190455" alt="genexus-logo"/>
+    <img src="https://img.icons8.com/color/70/joomla.png" alt="joomla"/>
+    <img src="https://img.icons8.com/fluency/70/arduino.png" alt="arduino"/>
   </p>
   
   <h3 align='left'>📌 Herramientas </h3>
   <p>
-    <img src="https://img.icons8.com/color/48/git.png" alt="git"/>
-    <img src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
-    <img src="https://img.icons8.com/dusk/48/postman-api.png" alt="postman-api"/>
-    <img src="https://img.icons8.com/fluency/48/adobe-photoshop.png" alt="adobe-photoshop"/>
-    <img src="https://img.icons8.com/color/52/npm.png" alt="npm"/>
+    <img src="https://img.icons8.com/color/60/git.png" alt="git"/>
+    <img src="https://img.icons8.com/fluency/60/github.png" alt="github"/>
+    <img src="https://img.icons8.com/dusk/60/postman-api.png" alt="postman-api"/>
+    <img src="https://img.icons8.com/fluency/60/adobe-photoshop.png" alt="adobe-photoshop"/>
+    <img src="https://img.icons8.com/color/64/npm.png" alt="npm"/>
   </p>
 
 
