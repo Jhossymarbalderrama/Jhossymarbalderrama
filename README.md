@@ -29,42 +29,43 @@
 
 <h1 align='left'> 💻 Tecnologías en mi Stack 🚀</h1>
 <p align='center'>
-  <img src="https://img.icons8.com/fluency/75/000000/angularjs.png" alt="angularjs"/>
-  <img  src="https://img.icons8.com/fluency/78/000000/typescript--v2.png" alt="typescript--v2"/>
-  <img src="https://img.icons8.com/fluency/78/tailwind_css.png" alt="tailwind_css"/>
-  <img src="https://img.icons8.com/fluency/78/bootstrap.png" alt="bootstrap"/>
-  <img src="https://img.icons8.com/fluency/78/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-  <img src="https://img.icons8.com/color/78/spring-logo.png" alt="spring-logo"/>
-  <img src="https://img.icons8.com/fluency/78/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-  <img src="https://img.icons8.com/fluency/78/docker.png" alt="docker"/>
-  <img src="https://img.icons8.com/color/78/apache-netbeans.png" alt="apache-netbeans"/>  
-  <img src="https://img.icons8.com/color/78/mysql-logo.png" alt="mysql-logo"/>
+  <img src="https://img.icons8.com/fluency/75/000000/angularjs.png" alt="angularjs" title="Angular"/>
+  <img  src="https://img.icons8.com/fluency/78/000000/typescript--v2.png" alt="typescript--v2" title="Typescript"/>
+  <img src="https://img.icons8.com/fluency/78/tailwind_css.png" alt="tailwind_css" title="Tailwind CSS"/>
+  <img src="https://img.icons8.com/fluency/78/bootstrap.png" alt="bootstrap" title="Bootstrap 5"/>
+  <img src="https://img.icons8.com/fluency/78/visual-studio-code-2019.png" alt="visual-studio-code-2019" title="Visual Studio Code"/>
+  <img src="https://img.icons8.com/color/78/spring-logo.png" alt="spring-logo" title="Spring Boot"/>
+  <img src="https://img.icons8.com/fluency/78/java-coffee-cup-logo.png" alt="java-coffee-cup-logo" title="Java"/>
+  <img src="https://img.icons8.com/color/78/20C997/cloud-function.png" alt="cloud-function" title="Swagger"/>
+  <img src="https://img.icons8.com/fluency/78/docker.png" alt="docker" title="Docker"/>
+  <img src="https://img.icons8.com/color/78/apache-netbeans.png" alt="apache-netbeans" title="Netbeans"/>  
+  <img src="https://img.icons8.com/color/78/mysql-logo.png" alt="mysql-logo" title="MySQL"/>
 </p>
 
 <br>
 
 <h2 align='left'>🚀 Otras Tecnologías y Herramientas que utilizo 🛠️</h2>
   <p align='center'>
-    <img src="https://img.icons8.com/fluency/70/node-js.png" alt="node-js"/>
-    <img src="https://img.icons8.com/fluency/70/c-sharp-logo.png" alt="c-sharp-logo"/>
-    <img src="https://img.icons8.com/fluency/70/javascript.png" alt="javascript"/>
-    <img src="https://img.icons8.com/fluency/70/html-5.png" alt="html-5"/>
-    <img src="https://img.icons8.com/fluency/70/css3.png" alt="css3"/>
-    <img width="60" height="60" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/external-ionic-a-complete-open-source-sdk-for-hybrid-mobile-app-development-logo-shadow-tal-revivo.png" alt="external-ionic-a-complete-open-source-sdk-for-hybrid-mobile-app-development-logo-shadow-tal-revivo"/>
-    <img width="70" height="60" src="https://img.icons8.com/officexs/74/php-logo.png" alt="php-logo"/>
-    <img width="60" height="60" src="https://www.genexus.com/media/images/fav_icon_gx2014.png?timestamp=20171211190455" alt="genexus-logo"/>
-    <img src="https://img.icons8.com/color/70/joomla.png" alt="joomla"/>
-    <img src="https://img.icons8.com/fluency/70/arduino.png" alt="arduino"/>
+    <img src="https://img.icons8.com/fluency/70/node-js.png" alt="node-js" title="Node.js"/>
+    <img src="https://img.icons8.com/fluency/70/c-sharp-logo.png" alt="c-sharp-logo" title="C# sharp"/>
+    <img src="https://img.icons8.com/fluency/70/javascript.png" alt="javascript" title="Javascript"/>
+    <img src="https://img.icons8.com/fluency/70/html-5.png" alt="html-5" title="HTML5"/>
+    <img src="https://img.icons8.com/fluency/70/css3.png" alt="css3" title="CSS3"/>
+    <img width="60" height="60" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/external-ionic-a-complete-open-source-sdk-for-hybrid-mobile-app-development-logo-shadow-tal-revivo.png" alt="external-ionic-a-complete-open-source-sdk-for-hybrid-mobile-app-development-logo-shadow-tal-revivo" title="Ionic"/>
+    <img width="70" height="60" src="https://img.icons8.com/officexs/74/php-logo.png" alt="php-logo" title="PHP"/>
+    <img width="60" height="60" src="https://www.genexus.com/media/images/fav_icon_gx2014.png?timestamp=20171211190455" alt="genexus-logo" title="GeneXus"/>
+    <img src="https://img.icons8.com/color/70/joomla.png" alt="joomla" title="Joomla"/>
+    <img src="https://img.icons8.com/fluency/70/arduino.png" alt="arduino" title="Arduino"/>
   </p>
   
   <p align='center'>
-    <img src="https://img.icons8.com/color/70/firebase.png" alt="firebase"/>
-    <img width="60" height="60" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" alt="external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo"/>
-    <img src="https://img.icons8.com/color/64/git.png" alt="git"/>
-    <img src="https://img.icons8.com/fluency/64/github.png" alt="github"/>
-    <img src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/>
-    <img src="https://img.icons8.com/fluency/64/adobe-photoshop.png" alt="adobe-photoshop"/>
-    <img src="https://img.icons8.com/color/68/npm.png" alt="npm"/>
+    <img src="https://img.icons8.com/color/70/firebase.png" alt="firebase" title="Firebase"/>
+    <img width="60" height="60" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" alt="external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo" title="Apache Maven"/>
+    <img src="https://img.icons8.com/color/64/git.png" alt="git" title="Git"/>
+    <img src="https://img.icons8.com/fluency/64/github.png" alt="github" title="Github"/>
+    <img src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api" title="Postman"/>
+    <img src="https://img.icons8.com/fluency/64/adobe-photoshop.png" alt="adobe-photoshop" title="Photoshop"/>
+    <img src="https://img.icons8.com/color/68/npm.png" alt="npm" title="Npm"/>
   </p>
 
 <br>
