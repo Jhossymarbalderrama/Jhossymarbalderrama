@@ -17,7 +17,7 @@
 
 [![Gmail](https://img.shields.io/badge/gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhossymarbalderrama@gmail.com)
   [![Whatsapp](https://img.shields.io/badge/whatsapp-2BAA51?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5491163079082&text=Hola%20Jhossymar%20%F0%9F%91%8B%2C%20quisiera%20coordinar%20una%20reuni%C3%B3n%20para%20discutir%20una%20propuesta.%20%C2%BFCu%C3%A1ndo%20estar%C3%ADas%20disponible%3F)
-  [![Linkenin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balderrama-rocha-jhossymar/)
+  [![Linkenin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhossymarbalderrama/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/blackjhossy/)
   [![Twitter](https://img.shields.io/badge/twitter-242424?style=for-the-badge&logo=x&logoColor=white)]()
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jhossymar.balderrama)
