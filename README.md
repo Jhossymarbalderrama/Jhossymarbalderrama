@@ -30,15 +30,16 @@
 <h1 align='left'> 💻 Tecnologías en mi Stack 🚀</h1>
 <p align='center'>
   <img src="https://img.icons8.com/fluency/75/000000/angularjs.png" alt="angularjs" title="Angular"/>
-  <img  src="https://img.icons8.com/fluency/78/000000/typescript--v2.png" alt="typescript--v2" title="Typescript"/>
+  <img  src="https://img.icons8.com/fluency/75/000000/typescript--v2.png" alt="typescript--v2" title="Typescript"/>
   <img src="https://img.icons8.com/fluency/78/tailwind_css.png" alt="tailwind_css" title="Tailwind CSS"/>
   <img src="https://img.icons8.com/fluency/78/bootstrap.png" alt="bootstrap" title="Bootstrap 5"/>
   <img src="https://img.icons8.com/fluency/78/visual-studio-code-2019.png" alt="visual-studio-code-2019" title="Visual Studio Code"/>
   <img src="https://img.icons8.com/color/78/spring-logo.png" alt="spring-logo" title="Spring Boot"/>
   <img src="https://img.icons8.com/fluency/78/java-coffee-cup-logo.png" alt="java-coffee-cup-logo" title="Java"/>
-  <img src="https://img.icons8.com/color/78/20C997/cloud-function.png" alt="cloud-function" title="Swagger"/>
+  <img src="https://img.icons8.com/color/78/java-web-token.png" alt="jwt" title="jwt"/>
   <img src="https://img.icons8.com/fluency/78/docker.png" alt="docker" title="Docker"/>
   <img src="https://img.icons8.com/color/78/apache-netbeans.png" alt="apache-netbeans" title="Netbeans"/>  
+  <img src="https://img.icons8.com/color/78/20C997/cloud-function.png" alt="cloud-function" title="Swagger"/>
   <img src="https://img.icons8.com/color/78/mysql-logo.png" alt="mysql-logo" title="MySQL"/>
 </p>
 
@@ -47,6 +48,7 @@
 <h2 align='left'>🚀 Otras Tecnologías y Herramientas que utilizo 🛠️</h2>
   <p align='center'>
     <img src="https://img.icons8.com/fluency/70/node-js.png" alt="node-js" title="Node.js"/>
+    <img src="https://img.icons8.com/office/70/express-js.png" alt="Express" title="Express"/>
     <img src="https://img.icons8.com/fluency/70/c-sharp-logo.png" alt="c-sharp-logo" title="C# sharp"/>
     <img src="https://img.icons8.com/fluency/70/javascript.png" alt="javascript" title="Javascript"/>
     <img src="https://img.icons8.com/fluency/70/html-5.png" alt="html-5" title="HTML5"/>
