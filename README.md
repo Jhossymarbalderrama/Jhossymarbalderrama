@@ -79,6 +79,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhossymarbalderrama&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&border_color=5c5c5c"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhossymarbalderrama&layout=compact&langs_count=7&theme=gruvbox&border_color=5c5c5c"/>
   </div>
+
+   ### <div align="center"> <img src="https://streak-stats.demolab.com?user=jhossymarbalderrama&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> </div> ###
       
   <br>
   
