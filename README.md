@@ -3,6 +3,11 @@
 <h1 align="center">👋 Hola , soy Jhossy Balderrama 🦝</h1>
 
 📩 Email : jhossymarbalderrama@gmail.com
+<p>
+  
+ 📋 CV / Curriculum vitae: [Balderrama R. Jhossymar - CV](https://github.com/Jhossymarbalderrama/portafolio/blob/main/src/assets/documents/Balderrama%20Rocha%20Jhossymar%20CV-ES.pdf)
+  
+</p>
 
 <h3 align='left'>🌎 Me podes encontrar en 👇</h3>
 <!--
